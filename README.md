@@ -9,4 +9,5 @@ Things I plan on tackling this weekend before finishing up:
   3. Following Deep Learning book to plot some of the layer interpretations of images
   4. Write code in pytorch time permitting by monday
 
-*** Struggled getting the images to upload to github *** will fix this and share link to google drive ASAP
+Because the data files were too large to host on github, I have uploaded them to google drive and they are accessible here:
+https://drive.google.com/drive/folders/1PWeqPVxf_QM2AWAfxnwGs0tCudwQi87F?usp=sharing
