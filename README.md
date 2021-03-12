@@ -7,7 +7,8 @@ Things I plan on tackling this weekend before finishing up:
   1. Reassign classes to more generic values, 5-10 classes max, rerun model.
   2. Confusion Matrices/Analysis
   3. Following Deep Learning book to plot some of the layer interpretations of images
-  4. Write code in pytorch time permitting by monday
+  4. Write blog post report for this 
+  5. Write code in pytorch time permitting by monday
 
 Because the data files were too large to host on github, I have uploaded them to google drive and they are accessible here:
 https://drive.google.com/drive/folders/1PWeqPVxf_QM2AWAfxnwGs0tCudwQi87F?usp=sharing
