@@ -8,3 +8,5 @@ Things I plan on tackling this weekend before finishing up:
   2. Confusion Matrices/Analysis
   3. Following Deep Learning book to plot some of the layer interpretations of images
   4. Write code in pytorch time permitting by monday
+
+*** Struggled getting the images to upload to github *** will fix this and share link to google drive ASAP
