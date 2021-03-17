@@ -8,5 +8,6 @@ Because the data files were too large to host on github, I have uploaded them to
 https://drive.google.com/drive/folders/1PWeqPVxf_QM2AWAfxnwGs0tCudwQi87F?usp=sharing
 
 Sources used during the creation of this project:
-https://towardsdatascience.com/a-concise-history-of-neural-networks-2070655d3fec
-https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+
+- https://towardsdatascience.com/a-concise-history-of-neural-networks-2070655d3fec
+- https://ai.stanford.edu/~jkrause/cars/car_dataset.html
