@@ -11,6 +11,7 @@ Repo Contents:
   - efficientnetb1.ipynb - efficientnetb1 modeling
   - efficientnetb2.ipynb - efficientnetb2 modeling
   - inceptionv3.ipynb - inceptionv3 modeling
+  - simple_custom_model.ipynb - sample model, early trial run
 
 Because the data files were too large to host on github, I have uploaded them to google drive and they are accessible here:
 https://drive.google.com/drive/folders/1PWeqPVxf_QM2AWAfxnwGs0tCudwQi87F?usp=sharing
