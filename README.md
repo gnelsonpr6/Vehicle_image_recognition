@@ -11,3 +11,6 @@ Sources used during the creation of this project:
 
 - https://towardsdatascience.com/a-concise-history-of-neural-networks-2070655d3fec
 - https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+- https://towardsdatascience.com/complete-architectural-details-of-all-efficientnet-models-5fd5b736142
+- http://image-net.org/about
+
