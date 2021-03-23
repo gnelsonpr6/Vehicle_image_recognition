@@ -6,7 +6,7 @@
 
 Repo Directory Contents:
 
-- modeling
+|--modeling--| 
 
    - efficientnetb0.ipynb - efficientnetb0 modeling
    - efficientnetb1.ipynb - efficientnetb1 modeling
