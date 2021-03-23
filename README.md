@@ -14,10 +14,10 @@ Repo Directory Contents:
 
 2) modeling
 
-   2.1) efficientnetb0.ipynb - efficientnetb0 modeling
-   2.2) efficientnetb1.ipynb - efficientnetb1 modeling
-   2.3) efficientnetb2.ipynb - efficientnetb2 modeling
-   2.4) inceptionv3.ipynb - inceptionv3 modeling
+   2.1) efficientnetb0.ipynb - efficientnetb0 modeling \
+   2.2) efficientnetb1.ipynb - efficientnetb1 modeling \
+   2.3) efficientnetb2.ipynb - efficientnetb2 modeling \
+   2.4) inceptionv3.ipynb - inceptionv3 modeling \
    2.5) simple_custom_model.ipynb - sample model, early trial run
  
 The presentation associated with this project cant be found here:                                        
