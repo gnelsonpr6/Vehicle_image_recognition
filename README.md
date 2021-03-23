@@ -6,6 +6,7 @@
 
 Repo Directory Contents:
 - modeling
+
     - efficientnetb0.ipynb - efficientnetb0 modeling
     - efficientnetb1.ipynb - efficientnetb1 modeling
     - efficientnetb2.ipynb - efficientnetb2 modeling
@@ -13,6 +14,7 @@ Repo Directory Contents:
     - simple_custom_model.ipynb - sample model, early trial run
    
 -image_prep
+
     - image_file_prep.ipynb - preparing images and bounding boxes for modeling
 
 The presentation associated with this project cant be found here:                                        
