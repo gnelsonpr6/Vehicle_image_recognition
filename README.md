@@ -9,16 +9,16 @@ Repo Directory Contents:
   
 1) image_prep
 
-   1.1 image_file_prep.ipynb - preparing images and bounding boxes for modeling
+   1.1 - image_file_prep.ipynb - preparing images and bounding boxes for modeling
 
 
 2) modeling
 
-   2.1 efficientnetb0.ipynb - efficientnetb0 modeling \
-   2.2 efficientnetb1.ipynb - efficientnetb1 modeling \
-   2.3 efficientnetb2.ipynb - efficientnetb2 modeling \
-   2.4 inceptionv3.ipynb - inceptionv3 modeling \
-   2.5 simple_custom_model.ipynb - sample model, early trial run
+   2.1 - efficientnetb0.ipynb - efficientnetb0 modeling \
+   2.2 - efficientnetb1.ipynb - efficientnetb1 modeling \
+   2.3 - efficientnetb2.ipynb - efficientnetb2 modeling \
+   2.4 - inceptionv3.ipynb - inceptionv3 modeling \
+   2.5 - simple_custom_model.ipynb - sample model, early trial run
  
 The presentation associated with this project cant be found here:                                        
 https://docs.google.com/presentation/d/1E5p1trAnLmF0-o-N6YTQ0ROYW2ADP0io0OZ03yYTFZE/edit?usp=sharing
