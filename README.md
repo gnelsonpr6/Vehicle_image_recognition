@@ -9,7 +9,10 @@ My goal for this project was to classify cars by make, model, and year based on 
 
 Through the use of EfficientNetB1's model formatting with a portion of the layers keeping the pretrained weights learned on the ImageNet dataset, I was able to achieve ~85% accuracy for predicting the year, make, and model of a particular car based on an image unseen by the CNN model. Below is a summary of the results and model:
 
-![image](https://user-images.githubusercontent.com/42257654/112685958-82dd9200-8e32-11eb-8d61-c461555069dd.png)
+![image](https://user-images.githubusercontent.com/42257654/112685958-82dd9200-8e32-11eb-8d61-c461555069dd.png), ![image](https://user-images.githubusercontent.com/42257654/112686052-a4d71480-8e32-11eb-9d77-1ed97efcfbac.png)
+
+![image](https://user-images.githubusercontent.com/42257654/112686101-b6202100-8e32-11eb-8a32-e6f91d309fb9.png)
+
 
 
 
