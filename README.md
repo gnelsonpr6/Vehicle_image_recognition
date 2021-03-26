@@ -46,4 +46,5 @@ Sources used during the creation of this project:
 - https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 - https://towardsdatascience.com/complete-architectural-details-of-all-efficientnet-models-5fd5b736142
 - http://image-net.org/about
+- https://www.tensorflow.org/api_docs/python/tf/image/
 
